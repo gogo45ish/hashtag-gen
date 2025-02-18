@@ -4,8 +4,7 @@ This project generates relevant hashtags based on user-input text using an AI-po
 
 ## Live Demo
 
-- **Frontend**: [AI Powered Hashtag Generator](#) (URL to be added)
-- **Backend**: [AI Hashtag API](#) (URL to be added)
+- **Frontend**: [AI Powered Hashtag Generator](#) https://hashtag-generator-eight.vercel.app/
 
 ## Tech Stack
 
