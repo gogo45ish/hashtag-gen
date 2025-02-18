@@ -18,7 +18,6 @@ This project generates relevant hashtags based on user-input text using an AI-po
 
 - **Interactive UI**: Input text and instantly see generated hashtags.
 - **AI-Powered**: Uses DeepSeek AI to generate meaningful hashtags based on the provided text.
-- **Real-time Results**: Get hashtag suggestions immediately as you input your text.
   
 ## How to Use
 
