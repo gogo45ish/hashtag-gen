@@ -1,0 +1,27 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Environment variables
+client/.env
+server/.env
+
+# Build and cache files
+client/.next/
+client/.vercel/
+client/.turbo/
+client/dist/
+server/dist/
+
+# Logs
+client/npm-debug.log*
+server/npm-debug.log*
+client/yarn-debug.log*
+server/yarn-debug.log*
+client/pnpm-debug.log*
+server/pnpm-debug.log*
+
+# Editor & OS files
+.DS_Store
+.vscode/
+.idea/
